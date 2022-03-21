@@ -19,5 +19,3 @@ Here are some ideas to get you started:
 
 ![](https://github-readme-stats.vercel.app/api?username=Ahmed3zzeldeen&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ahmed3zzeldeen&theme=tokyonight&hide_border=false)<br/>
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ahmed3zzeldeen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
