@@ -41,6 +41,7 @@ When I am not in front of a computer 💻️ ,<br> I like playing chess ♟️ o
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;<br>
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
+<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/></a>
 <!-- ![Figma](https://img.shields.io/badge/figma-05122A.svg?style=for-the-badge&logo=figma&logoColor=white) -->
 
 ## <img src = "https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" align="center" width ="30px"> Github Stats :
