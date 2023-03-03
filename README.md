@@ -53,5 +53,4 @@ When I am not in front of a computer 💻️ ,<br> I like playing chess ♟️ o
 ![](https://komarev.com/ghpvc/?username=Ahmed3zzeldeen&style=for-the-badge)
 
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
