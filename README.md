@@ -10,14 +10,14 @@
 
 ## <img src ="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=25px> &nbsp;About me :
 
-<p Style="font-size:16px; font-weight:bold; color:#fff; ">
+<p Style="font-size:16px; font-weight:bold; ">
 I'm Front End Developer 🧑‍💻 with experience building and maintaining responsive websites 🌐<br>
 I'm passionate about making the world a better place by finding space between code and UI design 🎨<br>
 I love learning about the latest technologies 🚀 and finding out how to improve my craft 🛠️.<br> I'm detail-oriented and focused 🤏 
 When I am not in front of a computer 💻️ ,<br> I like playing chess ♟️ or drinking ice coffee and relaxing ☕️ .
 </p>
 
-<ul style="color:#fff;font-size:16px">
+<ul style="font-size:16px">
 <li>🌱 &nbsp; I’m currently learning MERN-Stack</li>
 <li>👨‍💻 &nbsp; I’m a CS student</li>
 <li>👀 &nbsp; I’m interested in Web Development</li>
@@ -50,7 +50,7 @@ When I am not in front of a computer 💻️ ,<br> I like playing chess ♟️ o
 ![](https://github-readme-stats.vercel.app/api?username=Ahmed3zzeldeen&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ahmed3zzeldeen&theme=tokyonight&hide_border=false)<br/>
 
-![](https://komarev.com/ghpvc/?username=Ahmed3zzeldeen&style=for-the-badge)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ahmed3zzeldeen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--START_SECTION:Waka-->
-<!--END_SECTION:Waka-->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
