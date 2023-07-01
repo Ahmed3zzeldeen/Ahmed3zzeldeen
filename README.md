@@ -47,8 +47,7 @@ When I am not in front of a computer 💻️ ,<br> I like playing chess ♟️ o
 
 ## <img src = "https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" align="center" width ="30px"> Github Stats :
 
-![](https://github-readme-stats.vercel.app/api?username=Ahmed3zzeldeen&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ahmed3zzeldeen&theme=tokyonight&hide_border=false)<br/>
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ahmed3zzeldeen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
