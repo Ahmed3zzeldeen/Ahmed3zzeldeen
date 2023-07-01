@@ -51,4 +51,13 @@ When I am not in front of a computer 💻️ ,<br> I like playing chess ♟️ o
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ahmed3zzeldeen&theme=tokyonight&hide_border=false)<br/>
 
 <!--START_SECTION:waka-->
+
+```txt
+Markdown     5 hrs 7 mins    ██████████████▒░░░░░░░░░░   56.88 %
+JavaScript   2 hrs 16 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.30 %
+Text         38 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.15 %
+Other        30 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 %
+CSS          24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 %
+```
+
 <!--END_SECTION:waka-->
