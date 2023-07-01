@@ -50,4 +50,13 @@ When I am not in front of a computer 💻️ ,<br> I like playing chess ♟️ o
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ahmed3zzeldeen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
+
+```txt
+Markdown     5 hrs 7 mins    ██████████████▒░░░░░░░░░░   56.88 %
+JavaScript   2 hrs 16 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.30 %
+Text         38 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.15 %
+Other        30 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 %
+CSS          24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 %
+```
+
 <!--END_SECTION:waka-->
