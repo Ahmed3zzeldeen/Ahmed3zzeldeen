@@ -31,16 +31,10 @@ When I am not in front of a computer 💻️ ,<br> I like playing chess ♟️ o
 
 ## 🛠 &nbsp;Tech Stack :
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)&nbsp;<br>
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
-![typescript](https://img.shields.io/badge/TypeScript-05122A?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;<br>
-![Visual Studio Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
+
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/></a>
 
 <!-- ![Figma](https://img.shields.io/badge/figma-05122A.svg?style=for-the-badge&logo=figma&logoColor=white) -->
@@ -53,67 +47,65 @@ When I am not in front of a computer 💻️ ,<br> I like playing chess ♟️ o
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ahmed3zzeldeen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-567%20hrs%2015%20mins-blue)
 
-**I'm a Night 🦉** 
+**I'm a Night 🦉**
 
 ```text
-🌞 Morning                45 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
-🌆 Daytime                55 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.80 % 
-🌃 Evening                97 commits          ████████░░░░░░░░░░░░░░░░░   31.39 % 
-🌙 Night                  112 commits         █████████░░░░░░░░░░░░░░░░   36.25 % 
+🌞 Morning                45 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.56 %
+🌆 Daytime                55 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.80 %
+🌃 Evening                97 commits          ████████░░░░░░░░░░░░░░░░░   31.39 %
+🌙 Night                  112 commits         █████████░░░░░░░░░░░░░░░░   36.25 %
 ```
-📅 **I'm Most Productive on Wednesday** 
+
+📅 **I'm Most Productive on Wednesday**
 
 ```text
-Monday                   38 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
-Tuesday                  49 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
-Wednesday                75 commits          ██████░░░░░░░░░░░░░░░░░░░   24.27 % 
-Thursday                 26 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
-Friday                   45 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
-Saturday                 24 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
-Sunday                   52 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
+Monday                   38 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.30 %
+Tuesday                  49 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.86 %
+Wednesday                75 commits          ██████░░░░░░░░░░░░░░░░░░░   24.27 %
+Thursday                 26 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 %
+Friday                   45 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.56 %
+Saturday                 24 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 %
+Sunday                   52 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.83 %
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Africa/Cairo
 
-💬 Programming Languages: 
-JavaScript               4 hrs 35 mins       ███████████░░░░░░░░░░░░░░   45.15 % 
-Markdown                 2 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   20.68 % 
-CSS                      1 hr 35 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
-PHP                      50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
-HTML                     44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
+💬 Programming Languages:
+JavaScript               4 hrs 35 mins       ███████████░░░░░░░░░░░░░░   45.15 %
+Markdown                 2 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   20.68 %
+CSS                      1 hr 35 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.62 %
+PHP                      50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 %
+HTML                     44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 %
 
-🔥 Editors: 
-VS Code                  9 hrs 38 mins       ████████████████████████░   94.68 % 
-Obsidian                 32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
+🔥 Editors:
+VS Code                  9 hrs 38 mins       ████████████████████████░   94.68 %
+Obsidian                 32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 %
 
-🐱‍💻 Projects: 
-Srac                     8 hrs               ████████████████████░░░░░   78.68 % 
-Leetcode-Challenges      1 hr 36 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.76 % 
-My_PKM                   32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
-SPA-App-With-Pure-JS     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
-your_car                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+🐱‍💻 Projects:
+Srac                     8 hrs               ████████████████████░░░░░   78.68 %
+Leetcode-Challenges      1 hr 36 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.76 %
+My_PKM                   32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 %
+SPA-App-With-Pure-JS     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+your_car                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 
-💻 Operating System: 
-Linux                    10 hrs 11 mins      █████████████████████████   100.00 % 
+💻 Operating System:
+Linux                    10 hrs 11 mins      █████████████████████████   100.00 %
 ```
 
-**I Mostly Code in CSS** 
+**I Mostly Code in CSS**
 
 ```text
-CSS                      13 repos            ████████████░░░░░░░░░░░░░   46.43 % 
-JavaScript               6 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
-HTML                     5 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
-Java                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+CSS                      13 repos            ████████████░░░░░░░░░░░░░   46.43 %
+JavaScript               6 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43 %
+HTML                     5 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.86 %
+Java                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.71 %
+Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
 ```
-
-
-
 
 <!--END_SECTION:waka-->
