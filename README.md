@@ -45,7 +45,7 @@ When I am not in front of a computer 💻️ ,<br> I like playing chess ♟️ o
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ahmed3zzeldeen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-605%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-605%20hrs%2015%20mins-blue)
 
 **I'm a Night 🦉** 
 
