@@ -46,7 +46,7 @@ When I am not in front of a computer 💻️ ,<br> I like playing chess ♟️ o
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ahmed3zzeldeen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C331%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C332%20hrs%2044%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -75,17 +75,19 @@ Sunday                   1710 commits        ████░░░░░░░�
 🕑︎ Time Zone: Africa/Cairo
 
 💬 Programming Languages: 
-Markdown                 58 mins             ████████████████░░░░░░░░░   64.10 % 
-Other                    32 mins             █████████░░░░░░░░░░░░░░░░   35.90 % 
+Markdown                 1 hr 45 mins        █████████████████░░░░░░░░   69.44 % 
+Other                    36 mins             ██████░░░░░░░░░░░░░░░░░░░   24.15 % 
+JavaScript               9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
+Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 
 🔥 Editors: 
-VS Code                  1 hr 30 mins        █████████████████████████   100.00 % 
+VS Code                  2 hrs 31 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-5-bit-adder              1 hr 30 mins        █████████████████████████   100.00 % 
+5-bit-adder              2 hrs 31 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    1 hr 30 mins        █████████████████████████   100.00 % 
+Linux                    2 hrs 31 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
