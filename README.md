@@ -46,7 +46,7 @@ When I am not in front of a computer 💻️ ,<br> I like playing chess ♟️ o
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ahmed3zzeldeen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C353%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C354%20hrs%2057%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -75,19 +75,16 @@ Sunday                   1845 commits        ████░░░░░░░�
 🕑︎ Time Zone: Africa/Cairo
 
 💬 Programming Languages: 
-Markdown                 10 hrs 24 mins      █████████████████████████   98.88 % 
-JavaScript               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+Markdown                 10 hrs 34 mins      █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Obsidian                 10 hrs 24 mins      █████████████████████████   98.88 % 
-VS Code                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+Obsidian                 10 hrs 34 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          10 hrs 24 mins      █████████████████████████   98.88 % 
-my-portfolio-v2          7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+Unknown Project          10 hrs 34 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    10 hrs 31 mins      █████████████████████████   100.00 % 
+Linux                    10 hrs 34 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
