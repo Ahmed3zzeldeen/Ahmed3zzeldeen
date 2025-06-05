@@ -49,7 +49,7 @@
 <hr/>
 
 <details>
-  <summary Style="font-size:20px; color:#fff; font-weight:bold;">🛠 &nbsp;Tech Stack</summary>
+  <summary Style="font-size:20px; color:#fff; font-weight:bold;"><b>🛠 &nbsp;Tech Stack</b></summary>
   <div align="left">
     <h4>🖥️ Front-End</h4>
     <div align="left">
@@ -137,22 +137,31 @@
 
 
 <details >
-  <summary Style="font-size:20px; color:#fff; font-weight:bold;"><img src = "https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" align="center" width ="30px"> &nbsp;GitHub Stats</summary>
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Ahmed3zzeldeen&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="Ahmed3zzeldeen's GitHub Stats" width="450px" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed3zzeldeen&theme=tokyonight&hide_border=false" alt="Ahmed3zzeldeen's GitHub Streak" width="450px"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmed3zzeldeen&theme=tokyonight&hide_border=false&layout=compact&include_all_commits=true&count_private=false" alt="Top Languages" width="450px" />
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ahmed3zzeldeen&theme=tokyonight" width="450px" />
-  </div>
+  <summary Style="font-size:20px; color:#fff; font-weight:bold;"><b><img src = "https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" align="center" width ="30px"> &nbsp;GitHub Stats</b></summary>
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Ahmed3zzeldeen&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" />
+      <br />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed3zzeldeen&theme=tokyonight&hide_border=false" />
+      <br />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmed3zzeldeen&theme=tokyonight&hide_border=false&layout=compact&include_all_commits=true&count_private=false" />
+      <br />
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ahmed3zzeldeen&theme=tokyonight" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ahmed3zzeldeen&layout=compact&theme=tokyonight&hide_border=false" />
+    </td>
+  </tr>
+</table>
+
 </details>
 
 <!-- WakaTime -->
 
 <details>
   <summary Style="font-size:20px; color:#fff; font-weight:bold;"><b>📈 Get my Code stats</b></summary><br>
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ahmed3zzeldeen&layout=compact&theme=tokyonight&hide_border=false" alt="WakaTime Stats" width="450px"/>
-  </div>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C455%20hrs%2032%20mins-blue)
