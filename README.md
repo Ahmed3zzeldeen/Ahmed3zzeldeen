@@ -164,7 +164,7 @@
   <summary Style="font-size:20px; color:#fff; font-weight:bold;"><b>📈 Get my Code stats</b></summary><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C541%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C541%20hrs%2033%20mins-blue)
 
 **I'm a Night 🦉** 
 
