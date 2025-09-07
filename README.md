@@ -164,7 +164,7 @@
   <summary Style="font-size:20px; color:#fff; font-weight:bold;"><b>📈 Get my Code stats</b></summary><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C562%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C562%20hrs%2050%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -193,8 +193,7 @@ Sunday                   2286 commits        ████░░░░░░░�
 🕑︎ Time Zone: Africa/Cairo
 
 💬 Programming Languages: 
-TypeScript               18 mins             █████████████████████████   98.74 % 
-Prisma                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+TypeScript               18 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
 VS Code                  18 mins             █████████████████████████   100.00 % 
