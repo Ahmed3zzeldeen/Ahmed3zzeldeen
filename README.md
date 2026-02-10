@@ -20,7 +20,7 @@
 <div>
      <p>
         Hi, I'm Ahmed M. Ezzeldeen.<br>
-        full-stack web Developer 🧑‍💻 with 2+ years of experience building responsive, user-friendly websites 🌐<br>
+        full-stack web Developer 🧑‍💻 with 3+ years of experience building responsive, user-friendly websites 🌐<br>
         I'm passionate about making the world a better place by finding space between code and UI design 🎨 <br>
         I love learning about the latest technologies 🚀 and finding out how to improve my craft 🛠️.<br> 
         I'm detail-oriented and focused 🤏 When I am not in front of a computer 💻️ <br> I like playing chess ♟️ or drinking ice coffee and relaxing ☕️ .
