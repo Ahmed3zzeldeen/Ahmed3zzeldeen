@@ -160,7 +160,7 @@
 
 <!-- WakaTime -->
 
-<details>
+<details open>
   <summary Style="font-size:20px; color:#fff; font-weight:bold;"><b>📈 Get my Code stats</b></summary><br>
 
 <!--START_SECTION:waka-->
